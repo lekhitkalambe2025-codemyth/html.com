@@ -1,0 +1,67 @@
+Second code
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Student Marks</title>
+</head>
+<body>
+    <h2>Welcome to SIT Nagpur BTech CSE</h2>
+    <p>Happy Birthday</p>
+    <p>This is not a HTML doc</p>
+    <p>This is SIT Nagpur</p>
+    <p>This is a basic HTML doc</p>
+
+    <h3>Student Marks Table</h3>
+    <table border="1" cellpadding="8" cellspacing="0">
+        <tr>
+            <th>Name</th>
+            <th>Semester</th>
+            <th>Sub1</th>
+            <th>Sub2</th>
+            <th>Sub3</th>
+            <th>Sub4</th>
+        </tr>
+        <tr>
+            <td>Vishal</td>
+            <td>SEM 1</td>
+            <td>69</td>
+            <td>99</td>
+            <td>96</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>Vishal</td>
+            <td>SEM 1</td>
+            <td>69</td>
+            <td>99</td>
+            <td>96</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>Vishal</td>
+            <td>SEM 1</td>
+            <td>69</td>
+            <td>99</td>
+            <td>96</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>Vishal</td>
+            <td>SEM 1</td>
+            <td>69</td>
+            <td>99</td>
+            <td>96</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>Vishal</td>
+            <td>SEM 1</td>
+            <td>69</td>
+            <td>99</td>
+            <td>96</td>
+            <td>100</td>
+        </tr>
+    </table>
+</body>
+</html>

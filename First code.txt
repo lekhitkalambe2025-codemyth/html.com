@@ -1,0 +1,25 @@
+First code
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My first webpage</title>
+</head>
+<body>
+    <h1>Welcome to my webpage</h1>
+    <p>This is paragraph of text</p>
+
+    <h3>My links</h3>
+    <a href="https://example.com" target="_blank">Visit Example</a>
+
+    <h3>My favorite image</h3>
+    <img src="https://www.w3schools.com/html/img_girl.jpg" alt="Sample Image" width="300">
+
+    <h3>My to do list</h3>
+    <ul>
+        <li>Learn HTML</li>
+        <li>Practice CSS</li>
+        <li>Build a website</li>
+    </ul>
+</body>
+</html>

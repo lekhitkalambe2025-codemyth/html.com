@@ -1,0 +1,28 @@
+Third code
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Centered Box Example</title>
+    <style>
+        body {
+            text-align: center; /* Centers inline elements */
+            font-family: Arial, sans-serif;
+        }
+        .box {
+            border: 2px solid black;
+            padding: 15px;
+            display: inline-block; /* Keeps box compact */
+            margin: 20px auto; /* Adds spacing above/below */
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        Hello, this box has padding!
+    </div>
+
+    <h2>Welcome to my webpage!</h2>
+    <p>This is the content that user will see</p>
+</body>
+</html>

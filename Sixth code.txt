@@ -1,0 +1,106 @@
+Sixth code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lekhit S Kalambe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f5f5f5;
+        }
+        header {
+            background-color: #3c4c68;
+            color: white;
+            text-align: center;
+            padding: 30px 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+        header p {
+            margin: 5px 0 0;
+            font-size: 16px;
+        }
+        .container {
+            width: 80%;
+            max-width: 900px;
+            margin: 30px auto;
+            background-color: white;
+            padding: 30px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile-img {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .profile-img img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+        }
+        h2 {
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        footer {
+            background-color: #3c4c68;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+            margin-top: 50px;
+        }
+        a {
+            color: #0077cc;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Lekhit S Kalambe</h1>
+        <p>Software Developer | HTML&CSS | C++ | JAVA | Python| Lifelong Learner</p>
+    </header>
+
+    <div class="container">
+        <div class="profile-img">
+            <img src="C:\Users\library\Downloads\muphoto.jpg.jpeg" alt="Lekhit S Kalambe">
+        </div>
+
+        <section>
+            <h2>About Me</h2>
+            <p>Hello! I am Lekhit S Kalambe, a passionate software developer with a love for creating innovative web applications. I enjoy learning new technologies and improving my skills every day.</p>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>Developer</li>
+                <li>C++,HTML</li>
+                <li>Learner</li>
+                <li>Hacker</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Contact Me</h2>
+            <p>Email: lekhit.kalambe.batch2025@sitnagpur.siu.edu.in</p>
+            <p>Phone: 8830132965</p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/lekhit-kalambe-1005b837b?">linkedin.com/in/lekhit-kalambe-1005b837b?</a></p>
+        </section>
+    </div>
+
+    <footer>
+        &copy; 2025 Lekhit S Kalambe. All rights reserved.
+    </footer>
+
+</body>
+</html>
